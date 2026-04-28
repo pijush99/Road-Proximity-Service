@@ -1,4 +1,4 @@
-Distance Function – Nearest Road Distance
+ Location-Based Road Proximity Service (Google Maps API)
 📌 Project Overview
 
 Distance Function is a Java-based cloud function that calculates the nearest main road for a given geographic location (latitude and longitude). It uses the Google Maps API to fetch nearby road data and compute the closest road accurately. The application is designed to run as a serverless service using Google Cloud Run / Google Cloud Functions.
